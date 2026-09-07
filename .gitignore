@@ -42,10 +42,6 @@ temp/
 tmp/
 *.tmp
 
-
-models/*.task
-models/*.tflite
-
 !models/README.md
 
 
