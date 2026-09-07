@@ -3,6 +3,7 @@ FROM python:3.10-slim
 # Install system libraries MediaPipe/OpenCV need on a headless Linux server
 RUN apt-get update && apt-get install -y --no-install-recommends \
     libgles2 \
+    libegl1 \
     libgl1 \
     libglib2.0-0 \
     libsm6 \
