@@ -2,6 +2,8 @@
 
 Realtime multi-person computer vision attention, drowsiness, and distraction monitoring system built with Python, OpenCV, and MediaPipe — with a FastAPI backend and a React web dashboard for live browser-based monitoring.
 
+**Live demo:** https://attention-scanner.vercel.app/
+
 ---
 
 ## Overview
