@@ -1,6 +1,6 @@
 
 numpy>=1.21.0,<2.0.0
-opencv-python>=4.5.0
+opencv-python-headless
 mediapipe>=0.10.0
 fastapi
 uvicorn
